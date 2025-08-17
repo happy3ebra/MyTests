@@ -5,7 +5,8 @@
 using namespace std;
 int main()
 {
-    cout << "Game Over!!" << endl;
+    int label = 100;
+    cout << "Game Over!! " << label << endl;
     return 0;
 
 }
